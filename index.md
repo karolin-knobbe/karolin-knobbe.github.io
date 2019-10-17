@@ -1,5 +1,8 @@
 # Seniorenmarketing als Chance des demographischen Wandels
 
+![Palmen](01.jpg)
+
+
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy 
 nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
 
@@ -20,6 +23,6 @@ nulla facilisis at vero et accumsan et iusto odio dignissim qui blandit
 praesent luptatum zzril delenit augue duis dolore te feugait nulla
 facilisi. 
 
-Nam liber tempor cum soluta nobis eleifend option congue 
+Nam liber tempor cum soluta nobis eleifend option congue
 nihil imperdiet doming id quod mazim placerat facer possim assum.
 
