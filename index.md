@@ -21,6 +21,7 @@ Altersstruktur in Deutschland
 In der vorliegenden Abbildung wird die prozentuale Verteilung verschiedener Altersgruppen in Deutschland in den Jahren 2020, 2030, 2040 und 2050 anhand von Kreisdiagrammen dargestellt. Die Legende beinhaltet die einzelnen Altersgruppen mit einer Altersangabe in Jahren:
 
 ![Diagramm](04.jpg)
+
 (Quelle: eigene Darstellung in Anlehnung an Focus Money, 2010)
 
 Abbildung 1: Entwicklung der Altersstruktur in Deutschland von 2020-2050
