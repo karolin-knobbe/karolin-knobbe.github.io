@@ -85,3 +85,5 @@ Meiners, N.H. & Seeberger, B. (2010). Marketing to Senior Citizens: Challenges a
 Nufer, G., & Oexle, S. (2010). Marketing für Best ager. Kommunikationspolitik im 21. Jahrhundert. Reutlinger Diskussionsbeiträge zu Marketing & Management. 2010 (1), S. 1-19
 
 Pack, J., Buck, H., Kistler, E., Mendius, H. G., Morschhäuser, M., & Wolff, H. (2000). Zukunftsreport demographischer Wandel. Innovationsfähigkeit in einer alternden Gesellschaft, Bonn
+
+© Karolin Knobbe, 2019
