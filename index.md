@@ -19,6 +19,7 @@ In einem Bericht des Bundesministeriums für Bildung und Forschung wird demograp
 Altersstruktur in Deutschland
 
 In der vorliegenden Abbildung wird die prozentuale Verteilung verschiedener Altersgruppen in Deutschland in den Jahren 2020, 2030, 2040 und 2050 anhand von Kreisdiagrammen dargestellt. Die Legende beinhaltet die einzelnen Altersgruppen mit einer Altersangabe in Jahren:
+
 ![Diagramm](04.jpg)
 (Quelle: eigene Darstellung in Anlehnung an Focus Money, 2010)
 
@@ -67,11 +68,19 @@ In dieser Seminararbeit werden lediglich spezifische Charakteristika von Seniore
 LITERATURVERZEICHNIS
 
 Auer-Srnka, K.J., Meier-Pesti, K. & Grießmair, M. (2008). Ältere Menschen als Zielgruppe der Werbung: Eine explorative Studie zu Wahrnehmung und Selbstbild der „Best Ager“ sowie stereotypen Vorstellungen vom Alt-sein in jüngeren Altersgruppen. der markt. 47 (186), S. 99-115
-Fedorow, R. (2010). Seniorenmarketing im Einzelhandel: Marketingstrategien zur Er- haltung und Neugewinnung von Kunden der Zielgruppe Best Ager (13. Auflage). Hamburg: Diplomica Verlag.
+
+Fedorow, R. (2010). Seniorenmarketing im Einzelhandel: Marketingstrategien zur Er- haltung und Neugewinnung von Kunden der Zielgruppe Best Ager (13. Auflage). Hamburg: Diplomica Verlag
+
 Focus Money (2010). Prognostizierte Entwicklung der Altersstruktur in Deutsch-land von 2010 bis 2050 (in Millionen Einwohner). In Statista. Zugriff am 24.9.2019 unter [Statista](https://de.statista.com/statistik/daten/studie/163252/umfrage/prognose-der-altersstruktur-in-deutschland-bis-2050/)
-Fritzsche, C. (2016). Seniorenmarketing: Marketing unter Einfluss des demografischen Wandels. Bachelor Thesis – Hochschule Mittweida.
-Helm, R., Scheunert, U. & Landschulze, S. (2012). Was wissen wir zum (Konsumenten-) Verhalten von Senioren? Betriebswirtschaft. 72 (5), S. 427-446  
-Kittelmann, D. (2014). Vom Fußballer zum Testimonial: Leistungskriterien von Bundesliga-Testimonials. Hamburg: Bachelor & Master Publishing, Diplomica Verlag.
+
+Fritzsche, C. (2016). Seniorenmarketing: Marketing unter Einfluss des demografischen Wandels. Bachelor Thesis – Hochschule Mittweida
+
+Helm, R., Scheunert, U. & Landschulze, S. (2012). Was wissen wir zum (Konsumenten-) Verhalten von Senioren? Betriebswirtschaft. 72 (5), S. 427-446
+
+Kittelmann, D. (2014). Vom Fußballer zum Testimonial: Leistungskriterien von Bundesliga-Testimonials. Hamburg: Bachelor & Master Publishing, Diplomica Verlag
+
 Meiners, N.H. & Seeberger, B. (2010). Marketing to Senior Citizens: Challenges and Opportunities. The Journal of Social, Political and Economic Studies. 35 (3), S. 293-328
+
 Nufer, G., & Oexle, S. (2010). Marketing für Best ager. Kommunikationspolitik im 21. Jahrhundert. Reutlinger Diskussionsbeiträge zu Marketing & Management. 2010 (1), S. 1-19
-Pack, J., Buck, H., Kistler, E., Mendius, H. G., Morschhäuser, M., & Wolff, H. (2000). Zukunftsreport demographischer Wandel. Innovationsfähigkeit in einer alternden Gesellschaft, Bonn.
+
+Pack, J., Buck, H., Kistler, E., Mendius, H. G., Morschhäuser, M., & Wolff, H. (2000). Zukunftsreport demographischer Wandel. Innovationsfähigkeit in einer alternden Gesellschaft, Bonn
