@@ -1,6 +1,6 @@
 # Seniorenmarketing als Chance des demographischen Wandels
 
-## EINLEITUNG
+## Einleitung
 
 In der Vergangenheit hat sich Marketing vor allem auf eine zielgruppenadäquate Ansprache jüngerer Generationen konzentriert. Pioniere im Bereich Seniorenmarketing wurden belächelt, da wirtschaftliche Stärke und Wachstum mit der jüngeren Bevölkerung assoziiert wurden (Meiners & Seeberger, 2010, S. 297). Dies fußte auf einem Stereotypenbild von Senioren, dass diese wegen geringer Vermögen als abhängig vom Einkommen ihrer Kinder darstellte (Meiners & Seeberger, 2010, S. 294).
 Aufgrund eines höheren Bildungsgrades heutiger Senioren und daraus resultierenden unabhängigen Einkommensquellen wird nun beobachtet, dass die ältere Bevölkerung öfter als die jüngere langjährige Investitionen tätigt und verstärkt Güter höherer Qualität konsumiert (Meiners & Seeberger, 2010, S. 294). Und angesichts des demographischen Wandels, gemäß dessen die Generation 50plus ab 2040 mehr als die Hälfte der deutschen Bevölkerung bildet (Focus Money, 2010), wird evident, dass Senioren eine größere und wohlhabendere Zielgruppe der Zukunft darstellen.
@@ -8,7 +8,7 @@ Wegen der hohen Relevanz des demographischen Wandels und den daraus resultierend
 Zur Durchführung der vorliegenden Arbeit wird Primär- und Sekundärliteratur in Form von einzelnen Artikeln zur Darstellung spezifischer Erkenntnisse herangezogen. Weitere sekundärliterarische Monographien erklären einzelne Begrifflichkeiten. Statistiken dienen zur Veranschaulichung der Daten bezüglich des demographischen Wandels.
 In der Schlussbetrachtung werden die Resultate dieser Seminararbeit zusammengefasst, Handlungsempfehlungen für die Praxis formuliert sowie auf Grenzen der Arbeit und weiteren Forschungsbedarf hinsichtlich des Seniorenmarketings hingewiesen.
 
-## DEMOGRAPHISCHER WANDEL
+## Demographischer Wandel
 
 Im vorliegenden Kapitel wird demographischer Wandel definiert und es werden Prognosen für die Altersstruktur der kommenden Jahrzehnte in Deutschland gezeigt und beschrieben.
 
@@ -28,7 +28,7 @@ Abbildung 1: Entwicklung der Altersstruktur in Deutschland von 2020-2050
 
 Die Haupterkenntnisse dieser Prognosen sind zum einen, dass die Gruppen der über 50-Jährigen ab 2040 mehr als 50% der Gesamtbevölkerung ausmachen. In Kapitel 3.1 wird dargelegt, dass die beiden Altersgruppen der über 50-Jährigen zu den Senioren gezählt werden. Zum anderen wird deutlich, dass lediglich die Gruppe der über 65-Jährigen einen prozentualen Zuwachs von insgesamt etwa zehn Prozentpunkten erfährt, während die relative Personenanzahl aller anderen Altersgruppen sinkt (Focus Money, 2010). Hierdurch wird evident, dass Seniorenmarketing aufgrund einer stetig wachsenden Zielgruppe zukünftig an Bedeutung gewinnt und dadurch Chancen für Unternehmen und ihr Marketing offeriert.
 
-## SENIORENMARKETING
+## Seniorenmarketing
 
 Das folgende Kapitel beinhaltet eine Klärung der Zielsetzung von Seniorenmarketing, eine Definition der Zielgruppe, diverse Charakteristika dieser sowie die Art der Ansprache, die das Marketing wählt respektive wählen sollte, um erfolgreiche Werbemaßnahmen für Senioren zu implementieren.
 Das in dieser Seminararbeit vorliegende Thema Seniorenmarketing verfolgt das Ziel, die der Zielgruppe zugehörigen Personen durch spezifische Werbung zu erreichen und so ihren Konsum zu steuern (Fritzsche, 2016, S. 14).
@@ -59,14 +59,14 @@ Außerdem ist es zur erfolgreichen Werbegestaltung von Bedeutung, dass sich die 
 Im Gegensatz zu jüngeren Altersgruppen wird bei Senioren evident, dass diese sich vorrangig durch Werbemaßnahmen mit positiven Inhalten angesprochen fühlen. Dies trägt wiederum dazu bei, dass benannte Inhalte eher im Gedächtnis bleiben, was gleichbedeutend mit erfolgreichem Marketing ist (Helm et al., 2012, S. 434).
 Eingehend auf die im Kapitel zuvor beschriebenen physischen Mängel von Senioren gilt es in der Werbeansprache, den daraus resultierenden Anforderungen gerecht zu werden. Beispielsweise sollten Produkte sowie deren Werbemaßnahmen eine größere Schriftgröße verwenden, um einer schwindenden Sehstärke entgegen zu wirken. Auch sollten Produkte im Geschäft an mittelhohen Stellen mit ausreichendem Raum in Zwischengängen platziert werden, um geringerer Bewegungsfähigkeit gerecht zu werden (Helm et al., 2012, S. 435).
 
-## SCHLUSSBETRACHTUNG
+## Schlussbetrachtung
 
 Im vorliegenden Kapitel werden die Erkenntnisse der Seminararbeit resümiert. Außerdem wird die Forschungsfrage, welche Chancen sich durch den demographischen Wandel für das Marketing ergeben, beantwortet. Schließlich werden die Grenzen der Arbeit sowie weiterer Forschungsbedarf im Seniorenmarketing aufgezeigt.
 Durch den demographischen Wandel bedingt, zählt die Mehrheit der Deutschen zukünftig zu der Altersgruppe der Senioren. Diese leben in höherem Wohlstand und die daraus resultierende steigende Kaufkraft betont die Relevanz von Seniorenmarketing. Im Zuge dessen sollte sich das Marketing jedoch nicht auf das Alter, sondern auf Bedürfnisse des Alters sowie Produktnutzen konzentrieren und Produkte zielgruppengerecht designen.
 Da Einkaufen bei Senioren als Zeitvertreib dient, ist hier die Handlungsempfehlung, diesen Prozess als Erlebnis und sozialen Treffpunkt zu gestalten. Zudem sollte Werbung auf den Tagesrhythmus von Senioren abgestimmt werden, um zur richtigen Uhrzeit und am richtigen Ort platziert zu werden und so erfolgreiches Marketing zu betreiben. Durch die Heterogenität der Zielgruppe der Senioren empfiehlt es sich, im Marketing unterschiedliche Schwerpunkte zu fixieren. Es bietet sich die Chance, jüngere Senioren vor allem durch das Thema Fitness und ältere Senioren durch das Thema Gesundheit anzusprechen. Schließlich sollte sich das Marketing die Digitalisierung zu Nutze machen, da heutige Senioren Affinität dazu aufzeigen (Meiners & Seeberger, 2010, S. 294).
 In dieser Seminararbeit werden lediglich spezifische Charakteristika von Senioren dargestellt. Zudem werden nur einzelne Maßnahmen erklärt, wie Marketing Senioren erfolgreich anspricht. Daher ist die vorliegende Literaturarbeit als nicht ganzheitlich einzustufen. Zukünftige Forschung könnte differenzierte Eigenschaften und spezifische Ansprachemethoden für die einzelnen Subkategorien der Senioren ermitteln. Anhand dessen könnten weitere praxisrelevante Handlungsempfehlungen für das Marketing formuliert werden.
 
-## LITERATURVERZEICHNIS
+## Literaturverzeichnis
 
 Auer-Srnka, K.J., Meier-Pesti, K. & Grießmair, M. (2008). Ältere Menschen als Zielgruppe der Werbung: Eine explorative Studie zu Wahrnehmung und Selbstbild der „Best Ager“ sowie stereotypen Vorstellungen vom Alt-sein in jüngeren Altersgruppen. der markt. 47 (186), S. 99-115
 
