@@ -87,3 +87,5 @@ Nufer, G., & Oexle, S. (2010). Marketing für Best ager. Kommunikationspolitik i
 Pack, J., Buck, H., Kistler, E., Mendius, H. G., Morschhäuser, M., & Wolff, H. (2000). Zukunftsreport demographischer Wandel. Innovationsfähigkeit in einer alternden Gesellschaft, Bonn
 
 © Karolin Katharina Knobbe, 2019
+
+[Impressum](/impressum)
